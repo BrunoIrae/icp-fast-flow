@@ -114,6 +114,10 @@ dataset/
 
 ⚠️ O dataset não está incluído neste repositório.
 
+### Baixar datasets
+
+https://drive.google.com/drive/folders/1Vy2E-jSRWC5FsB3wgbTHo-okrt4C3O6X?usp=drive_link
+
 ---
 
 ## Como Executar
