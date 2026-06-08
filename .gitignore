@@ -1,9 +1,9 @@
 # Dataset
-datasets/rgb/*
-datasets/depth/*
+dataset/rgb/*
+dataset/depth/*
 
-!datasets/rgb/.gitkeep
-!datasets/depth/.gitkeep
+!dataset/rgb/.gitkeep
+!dataset/depth/.gitkeep
 
 # Python
 __pycache__/
