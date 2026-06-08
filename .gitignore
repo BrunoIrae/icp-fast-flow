@@ -1,9 +1,17 @@
+# Dataset
+dataset/rgb/*
+dataset/depth/*
+
+!dataset/rgb/.gitkeep
+!dataset/depth/.gitkeep
+
 # Python
 __pycache__/
 *.pyc
 
 # Ambiente virtual
 venv/
+.venv/
 
 # VSCode
 .vscode/
